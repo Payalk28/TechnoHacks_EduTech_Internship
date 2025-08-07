@@ -1,7 +1,5 @@
 # 🚀 TechnoHacks Internship – Machine Learning Projects
 
-This repository showcases three machine learning projects developed during the **TechnoHacks EduTech Internship Program**. Each project demonstrates hands-on experience with data preprocessing, model building, and evaluation using popular Python libraries.
-
 ---
 
 ## 🕵️‍♀️ 1. Credit Card Fraud Detection
