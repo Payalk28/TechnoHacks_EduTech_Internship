@@ -1,48 +1,82 @@
-#🚀 TechnoHacks Internship – Machine Learning Projects
+# 🚀 TechnoHacks Internship – Machine Learning Projects
 
-1. 🕵️‍♀️ Credit Card Fraud Detection
-Objective: Identify fraudulent transactions from a highly imbalanced dataset.
-Techniques Used:
--Data balancing with SMOTE
--Feature scaling and correlation analysis
--Classification using Logistic Regression, Random Forest, and XGBoost
--Evaluation Metrics: ROC-AUC, Confusion Matrix, Precision & Recall
-Libraries: pandas, numpy, scikit-learn, xgboost, matplotlib, seaborn
+This repository showcases three machine learning projects developed during the **TechnoHacks EduTech Internship Program**. Each project demonstrates hands-on experience with data preprocessing, model building, and evaluation using popular Python libraries.
 
-📎 Dataset Source: Kaggle - Credit Card Fraud Detection
+---
 
-2. 👩‍💼 IBM HR Analytics – Employee Attrition Prediction
-Objective: Predict whether an employee is likely to leave the company.
+## 🕵️‍♀️ 1. Credit Card Fraud Detection
 
-Techniques Used:
+**Objective:**  
+Identify fraudulent transactions from a highly imbalanced dataset.
 
-Exploratory Data Analysis (EDA)
+**Techniques Used:**
+- Data balancing using **SMOTE**
+- Feature scaling and correlation analysis
+- Classification models:
+  - Logistic Regression
+  - Random Forest
+  - XGBoost
+- Evaluation metrics:
+  - ROC-AUC
+  - Confusion Matrix
+  - Precision & Recall
 
-Categorical encoding, feature selection
+**Libraries:**  
+`pandas`, `numpy`, `scikit-learn`, `xgboost`, `matplotlib`, `seaborn`
 
-Models: Decision Tree, Random Forest, SVM
+**Dataset Source:**  
+[Kaggle – Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
-Evaluation Metrics: Accuracy, Confusion Matrix, F1 Score
+---
 
-Libraries: pandas, numpy, sklearn, seaborn, matplotlib
+## 👩‍💼 2. IBM HR Analytics – Employee Attrition Prediction
 
-📎 Dataset Source: IBM HR Analytics Employee Attrition & Performance
+**Objective:**  
+Predict whether an employee is likely to leave the company.
 
-3. 🏡 House Price Prediction
-Objective: Predict housing prices based on various features.
+**Techniques Used:**
+- Exploratory Data Analysis (EDA)
+- Categorical encoding and feature selection
+- Classification models:
+  - Decision Tree
+  - Random Forest
+  - Support Vector Machine (SVM)
+- Evaluation metrics:
+  - Accuracy
+  - Confusion Matrix
+  - F1 Score
 
-Techniques Used:
+**Libraries:**  
+`pandas`, `numpy`, `sklearn`, `seaborn`, `matplotlib`
 
-Feature engineering and missing value handling
+**Dataset Source:**  
+[IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
-Regression models: Linear Regression, Ridge, Lasso, XGBoost
+---
 
-Evaluation Metrics: RMSE, MAE, R² Score
+## 🏡 3. House Price Prediction
 
-Libraries: pandas, scikit-learn, xgboost, matplotlib, seaborn
+**Objective:**  
+Predict housing prices based on various features.
 
-📎 Dataset Source: Kaggle - House Prices: Advanced Regression Techniques
+**Techniques Used:**
+- Feature engineering and handling missing values
+- Regression models:
+  - Linear Regression
+  - Ridge Regression
+  - Lasso Regression
+  - XGBoost
+- Evaluation metrics:
+  - RMSE (Root Mean Squared Error)
+  - MAE (Mean Absolute Error)
+  - R² Score
+
+**Libraries:**  
+`pandas`, `scikit-learn`, `xgboost`, `matplotlib`, `seaborn`
+
+**Dataset Source:**  
+[Kaggle – House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
+
+---
 
 
-
-This project was developed as part of the TechnoHacks EduTech Internship Program.
