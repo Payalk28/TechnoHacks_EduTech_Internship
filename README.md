@@ -1,18 +1,12 @@
-🚀 TechnoHacks Internship – Machine Learning Projects
+#🚀 TechnoHacks Internship – Machine Learning Projects
 
 1. 🕵️‍♀️ Credit Card Fraud Detection
 Objective: Identify fraudulent transactions from a highly imbalanced dataset.
-
 Techniques Used:
-
-Data balancing with SMOTE
-
-Feature scaling and correlation analysis
-
-Classification using Logistic Regression, Random Forest, and XGBoost
-
-Evaluation Metrics: ROC-AUC, Confusion Matrix, Precision & Recall
-
+-Data balancing with SMOTE
+-Feature scaling and correlation analysis
+-Classification using Logistic Regression, Random Forest, and XGBoost
+-Evaluation Metrics: ROC-AUC, Confusion Matrix, Precision & Recall
 Libraries: pandas, numpy, scikit-learn, xgboost, matplotlib, seaborn
 
 📎 Dataset Source: Kaggle - Credit Card Fraud Detection
